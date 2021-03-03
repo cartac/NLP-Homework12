@@ -1,17 +1,5 @@
-
-
-
-
-
-
-
-
-
-
-
-
 # NLP-Homework12
-NLP - Homework 12
+NLP - Homework 12 - Resubmitted
 
 ## Summary
 
